@@ -6,7 +6,16 @@
 /home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/ModuloAPI.dll
 /home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/ref/ModuloAPI.dll
 /home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/ModuloAPI.pdb
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Humanizer.dll
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
 /home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/MySqlConnector.dll
+/home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
 /home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/natapires/Documents/diome/projetos/ModuloAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
